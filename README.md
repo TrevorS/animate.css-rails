@@ -1,5 +1,7 @@
 # animate.css-rails
 
+[![Gem Version](https://badge.fury.io/rb/animate.css-rails.png)](http://badge.fury.io/rb/animate.css-rails)
+
 This gem packages [animate.css](https://github.com/daneden/animate.css) for the Rails 3.1+ asset pipeline.
 
 ## Installation
