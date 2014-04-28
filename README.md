@@ -8,7 +8,7 @@ This gem packages [animate.css](https://github.com/daneden/animate.css) for the 
 
 Add this line to your application's Gemfile:
 ```
-gem 'animate.css-rails', '~> 3.1.0'
+gem 'animate.css-rails', '~> 3.1.1'
 ```
 
 And then execute:
